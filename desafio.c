@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(){
     char inicial = "G";
     char código[20] = "G01";
     char nome[20] = "GOIÁS";
@@ -17,13 +17,4 @@ int main() {
     printf("PIB: %.2f Bilhões\n", PIB);
     printf("turísticos: %d\n", turísticos);
 
-return 0;
-
-
-
-
-
-
-
-
-
+}
